@@ -1,6 +1,13 @@
-# Portofolio-
+# 👤 Author
 
-# 🌌 Dark Portfolio Website
+**Chiqo Nanda Rial Pratama**  
+Information Systems Student  
+Mulawarmana University
+Year: 2024
+
+---
+
+# 🌌  Portfolio Website
 
 Website portofolio statis yang dibuat menggunakan HTML5, CSS3, Bootstrap 5, dan Vue JS (CDN).
 Project ini dikembangkan sebagai tugas pembuatan website portofolio dengan tampilan modern bertema dark.
@@ -137,29 +144,6 @@ Displays certifications in responsive card grid layout including uploaded certif
 
 ---
 
-# 📱 Responsive Design
-
-The website is fully responsive and adapts to:
-
-- Desktop
-- Tablet
-- Mobile devices
-
-Bootstrap breakpoints are used to maintain layout consistency across screen sizes.
-
----
-
-# 🧠 Learning Outcome
-
-Through this project, I learned:
-
-- Building responsive layouts using Bootstrap Grid System
-- Creating full-screen sections using CSS
-- Applying modern dark UI color grading
-- Implementing Vue JS (CDN) for dynamic rendering
-- Structuring clean and maintainable front-end code
-
----
 
 # 👤 Author
 
@@ -169,9 +153,3 @@ Universitas Mulawarman
 Year: 2026
 
 ---
-
-# 📌 Notes
-
-- This project is built without using any ready-made templates.
-- All layouts are structured manually using Bootstrap components.
-- Vue is implemented via CDN without build tools or Vue CLI.
