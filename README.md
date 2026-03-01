@@ -120,11 +120,10 @@ Displays certifications in responsive card grid layout including uploaded certif
 # 📸 Website Preview
 
 ## Home Section
-![Home Preview](<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f888af79-4402-4485-b571-6fd85e59967a" />)
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f888af79-4402-4485-b571-6fd85e59967a" />
 
 ## About Section
-![About Preview](<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/86aa776d-6016-4a26-ae73-41a8b21a83d6" />
-)
+<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/86aa776d-6016-4a26-ae73-41a8b21a83d6" />
 
 
 ## Experience
