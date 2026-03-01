@@ -2,17 +2,16 @@
 
 # 🌌 Dark Portfolio Website
 
-Website portfolio statis yang dibuat menggunakan **HTML5, CSS3, Bootstrap 5, dan Vue JS (CDN)**.  
-Project ini dikembangkan sebagai tugas pembuatan website portfolio dengan tampilan modern dark theme.
+Website portofolio statis yang dibuat menggunakan HTML5, CSS3, Bootstrap 5, dan Vue JS (CDN).
+Project ini dikembangkan sebagai tugas pembuatan website portofolio dengan tampilan modern bertema dark.
 
 ---
 
 ## 👨‍💻 About the Project
 
-This project is a personal portfolio website designed to showcase profile information, technical skills, professional experience, and certifications.
+Project ini merupakan website portofolio pribadi yang dirancang untuk menampilkan informasi profil, kemampuan teknis, pengalaman profesional, serta sertifikat yang dimiliki.
 
-The website is fully responsive and structured using Bootstrap grid system.  
-Vue JS is integrated via CDN to add simple interactivity such as dynamic data rendering and looping.
+Website ini bersifat statis dan responsif. Struktur layout dibangun menggunakan sistem grid dari Bootstrap, sedangkan Vue JS digunakan melalui CDN untuk menambahkan interaktivitas sederhana seperti data binding dan perulangan data.
 
 ---
 
@@ -37,7 +36,7 @@ Vue JS is integrated via CDN to add simple interactivity such as dynamic data re
 ## 🏠 1. Home (Hero Section)
 
 ### Description
-The hero section introduces the profile with:
+Bagian ini menampilkan:
 - Profile image
 - Name
 - Short introduction
@@ -53,7 +52,7 @@ The hero section introduces the profile with:
 ## 👤 2. About Me Section
 
 ### Description
-Contains personal introduction and academic background as an Information Systems student at Universitas Mulawarman.
+Berisi perkenalan diri sebagai mahasiswa Sistem Informasi Universitas Mulawarman serta minat di bidang teknologi dan pengembangan sistem.
 
 ### Implementation
 - Bootstrap grid layout
@@ -114,18 +113,26 @@ Displays certifications in responsive card grid layout including uploaded certif
 # 📸 Website Preview
 
 ## Home Section
-![Home Preview](assets/home.png)
+![Home Preview](<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f888af79-4402-4485-b571-6fd85e59967a" />)
 
 ## About Section
-![About Preview](assets/about.png)
+![About Preview](<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/86aa776d-6016-4a26-ae73-41a8b21a83d6" />
+)
+
+
+## Experience
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/c73a8159-5c27-4b43-b257-c0d5609bc1ff" />
+
 
 ## Certificates Section
-![Certificates Preview](assets/certificates.png)
+<img width="1912" height="959" alt="image" src="https://github.com/user-attachments/assets/12338a9f-1706-4860-a29f-3cf27875a7f1" />
+
 
 ---
 
 # 📂 Project Structure
 
+<img width="299" height="185" alt="image" src="https://github.com/user-attachments/assets/dc1a85e5-da12-4d43-9728-ed645e303494" />
 
 
 ---
